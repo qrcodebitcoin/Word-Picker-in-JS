@@ -1,0 +1,11 @@
+#cont {
+    width: 720px;
+    height: 400px;
+    outline: 1px dashed #ccc;
+    font: 8em arial;
+    text-align: center;
+    margin: 40px auto;
+    background-color: white;
+    line-height: 400px;
+    cursor: none;
+}
